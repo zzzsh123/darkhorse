@@ -1,0 +1,24 @@
+server: {port:    8887}
+#server:
+#  port: 8887
+
+name: hello dark house
+
+person:
+  name: fee
+  age: 15
+  address:
+    - shanghai
+    - beijing
+
+# 数组:
+address:
+  - shanghai
+  - beijing
+
+address2: [shanghai,beijing]
+
+# 纯量
+msg2: "hello \n" # 会识别转义字符
+msg1: 'dark house \n'
+msg3: '？？？why???'
