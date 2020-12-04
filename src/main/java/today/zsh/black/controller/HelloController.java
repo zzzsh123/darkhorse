@@ -40,7 +40,7 @@ public class HelloController {
     private Person p;
 
     @RequestMapping("hello")
-    private String hello(){
+    private String hello() {
         System.out.println(hello);
         System.out.println(pName);
         System.out.println(address1);
