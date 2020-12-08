@@ -1,0 +1,3 @@
+org.springframework.context.ApplicationContextInitializer=today.zsh.springbootlistener.listener.MyApplicationContextInitializer
+
+org.springframework.boot.SpringApplicationRunListener=today.zsh.springbootlistener.listener.MySpringApplicationRunListener
